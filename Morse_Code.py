@@ -1,5 +1,5 @@
 from os import system
-from tkinter import *
+from tkinter import Label,Tk,Button,Text,Entry
 class morseCode:
     def __init__(self):
           self.win=Tk()
